@@ -59,7 +59,7 @@ This project is open-source and available under the [MIT License](https://openso
 
 ## Screenshots
 
-![Quiz Interface](https://via.placeholder.com/800x400?text=Screenshot+of+Quiz+Interface)
+![Quiz Interface](images/screenshot.png)
 
 ---
 
